@@ -14,7 +14,7 @@ Interactive dashboard visualising natural increase (births minus deaths) by Esto
 ## Run locally
 
 1. Clone the repository  
-   `git clone https://github.com/yourusername/your-repo-name.git`
+   `git clone https://github.com/itkreenholmi-bit/KU-6`
 
 2. Install dependencies  
    `pip install -r requirements.txt`

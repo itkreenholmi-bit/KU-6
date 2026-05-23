@@ -4,3 +4,7 @@ pandas>=2.0.0
 matplotlib>=3.7.0
 folium>=0.14.0
 streamlit-folium>=0.23.0
+geopandas>=0.14.0
+fiona
+shapely
+pyproj
